@@ -18,3 +18,8 @@ Face Recognition tutorial reference for http://thecodacus.com
 
 * run BlackWhite standalone
 * run Object-Face standalone
+
+## Flow Of Use for educational purposes 
+* 1) Black White
+  2) Object-Face
+  3) main app - run by the description given
