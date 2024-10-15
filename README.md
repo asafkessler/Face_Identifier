@@ -21,5 +21,5 @@ Face Recognition tutorial reference for http://thecodacus.com
 
 ## Flow Of Use for educational purposes 
 * 1) Black White
-  2) Object-Face
-  3) main app - run by the description given
+* 2) Object-Face
+* 3) main app - run by the description given
